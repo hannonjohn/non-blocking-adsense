@@ -1,5 +1,5 @@
 var settingsFunction = function () { 
-	google_ad_client = 'ca-pub-00000000000';
+	google_ad_client = 'xx-xxx-00000000000';
 	google_ad_slot = '00000000000';
 	google_ad_width = 150;
 	google_ad_height = 500;
